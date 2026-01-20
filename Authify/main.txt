@@ -1,0 +1,13 @@
+backend setup
+npm init -y (installed packege.json)
+
+npm i express
+npm i jsonwebtoken
+npm i bcrypt -- enryption nd decryption for passwpord
+npm i body-parser 
+npm i dotenv
+npm i joi -- managing server side validation
+npm i mongoose 
+npm i cors  -- allowing port request to server 
+
+installed nodemon   
